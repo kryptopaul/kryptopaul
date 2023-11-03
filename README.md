@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Coding since late 2021<br>📚 I'm currently learning NextJS, NestJS and dabbling with ZK stuff.</p>
+<p align="left">✨ Coding since late 2021<br>📚 My stack is mostly NextJS, NestJS for Web2 and Foundry for Web3 🤓</p>
 
 ###
 
